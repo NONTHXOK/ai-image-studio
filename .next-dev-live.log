@@ -1,0 +1,17 @@
+
+> original-storefront-demo@0.1.0 dev
+> next dev --hostname 127.0.0.1 --port 3000
+
+▲ Next.js 16.2.6 (Turbopack)
+- Local:         http://127.0.0.1:3000
+- Network:       http://127.0.0.1:3000
+✓ Ready in 1738ms
+
+ GET / 200 in 2.2s (next.js: 1031ms, application-code: 1162ms)
+✓ Compiled in 846ms
+ GET / 200 in 316ms (next.js: 234ms, application-code: 82ms)
+ GET / 200 in 282ms (next.js: 11ms, application-code: 271ms)
+ GET / 200 in 165ms (next.js: 39ms, application-code: 126ms)
+ GET / 200 in 133ms (next.js: 11ms, application-code: 122ms)
+ GET / 200 in 513ms (next.js: 90ms, application-code: 424ms)
+[?25h
